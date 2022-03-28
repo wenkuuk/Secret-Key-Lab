@@ -1,6 +1,6 @@
 # Secret-Key-Lab
 
-Task7 (Python Version)
+## Task7 (Python Version)
 ``` 
 from sys import argv
 from Crypto.Cipher import AES
@@ -29,7 +29,7 @@ for k in keys:
 print("cannot find the key!")
 
 ``` 
-Task7 (C Version)
+## Task7 (C Version)
 ```
 
 #include <openssl/aes.h>
